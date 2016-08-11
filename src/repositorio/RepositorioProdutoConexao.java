@@ -1,4 +1,4 @@
-package SistemaXload.Repositorio;
+package repositorio;
 
 import SistemaXload.Conexão.Conexao;
 import SistemaXload.Modelos.Produto;

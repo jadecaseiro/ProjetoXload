@@ -1,4 +1,4 @@
-package SistemaXload.Modelos;
+package modelos;
 
 public class Produto {
     private String codigo;

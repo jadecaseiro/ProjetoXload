@@ -1,4 +1,4 @@
-package SistemaXload.Modelos;
+package modelos;
 
 public class Cliente {
     private String cpf;
