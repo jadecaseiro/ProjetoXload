@@ -1,33 +1,32 @@
 package modelos;
 
 public class Produto {
-    private String codigo;
-    private String descricao;
-    private Float preco;
-    
-    public String getCodigo() {
-        return codigo;
-    }
+	private String codigo;
+	private String descricao;
+	private Float preco;
 
-    public void setCodigo(String codigo) {
-        this.codigo = codigo;
-    }
+	public String getCodigo() {
+		return codigo;
+	}
 
-    public String getDescricao() {
-        return descricao;
-    }
+	public void setCodigo(String codigo) {
+		this.codigo = codigo;
+	}
 
-    public void setDescricao(String descricao) {
-        this.descricao = descricao;
-    }
+	public String getDescricao() {
+		return descricao;
+	}
 
-    public Float getPreco() {
-        return preco;
-    }
+	public void setDescricao(String descricao) {
+		this.descricao = descricao;
+	}
 
-    public void setPreco(Float preco) {
-        this.preco = preco;
-    }
-    
-           
+	public Float getPreco() {
+		return preco;
+	}
+
+	public void setPreco(Float preco) {
+		this.preco = preco;
+	}
+
 }

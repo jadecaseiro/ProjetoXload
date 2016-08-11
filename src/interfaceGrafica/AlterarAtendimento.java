@@ -1,9 +1,8 @@
 package interfaceGrafica;
 
-import SistemaXload.Modelos.*;
-import SistemaXload.Repositorio.RepositorioAtendimentoConexao;
+import repositorio.*;
 import javax.swing.JOptionPane;
-import ProjetoXload.modelos.Atendimento;
+import modelos.*;
 
 public class AlterarAtendimento extends javax.swing.JFrame {
 
